@@ -1,8 +1,8 @@
 ## Hi there 👋
 
-### _$Full stack developer🌐
-### _$App developer👨‍💻
-### _$Linux user🥂 || student🚀
+##### _$Full stack developer🌐
+##### _$App developer👨‍💻
+##### _$Linux user🥂 || student🚀
 
 - 🔭 I’m currently working on [Aritrends](http://aritrends.tech)
 - 🌱 I’m currently learning BabylonJS
