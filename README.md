@@ -12,7 +12,7 @@
 - ⚡ Fun fact: Do you know clouds are made up of mostly linux server :)
 
 ## My Company 🏦
-### I am the Founder and CEO of [Aritrends](http://aritrends.tech)
+### I am the founder and CEO of [Aritrends](http://aritrends.tech)
 My company provide user file processing service, where we convert your files in .zip or .pdf format and also provide end to end file sharing service, according to the user requirements.
 
 ## My blogs 📰
