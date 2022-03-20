@@ -1,9 +1,5 @@
 ## Hi there 👋
 
-#### _$Full stack developer🌐
-#### _$App developer👨‍💻
-#### _$linux user🥂 || student🚀
-
 - 🔭 I’m currently working on [Aritrends](http://aritrends.tech)
 - 🌱 I’m currently learning BabylonJS
 - 👯 I’m looking to collaborate on [Abhineet Raj Codes](https://codes.abhineetraj.me/)
