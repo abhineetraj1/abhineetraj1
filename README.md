@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-- 🔭 I’m currently working on [Aritrends](http://aritrends.tech)
+- 🔭 I’m currently working on [Aritrends](http://aritrends.tech), [Abhineet Raj Codes](https://codes.abhineetraj.me/) and my other projects.
 - 🌱 I’m currently learning BabylonJS
 - 👯 I’m looking to collaborate on [Abhineet Raj Codes](https://codes.abhineetraj.me/)
 - 💬 Ask me about anything in Python, Arduino C and full stack development
