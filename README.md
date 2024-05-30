@@ -6,8 +6,9 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://g.dev/abhineetraj1/" target="blank"><img align="center" src="https://www.gstatic.com/devrel-devsite/prod/v7d5fa6e40a039b81c27b0cf865f2e8926da1a55b440a1d59c186a490be9749f9/developers/images/touchicon-180.png" alt="abhineetraj1" height="40" width="40" /></a><a href="https://dev.to/abhineetraj1" target="blank"><img align="center" src="https://d2fltix0v2e0sb.cloudfront.net/dev-black.png" alt="abhineetraj1" height="30" width="40" /></a>
+<a href="https://twitter.com/1abhineetraj" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="1abhineetraj" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/abhineetraj1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abhineetraj1" height="30" width="40" /></a>
-<a href="https://instagram.com/abhineetraj1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="abhineetraj1" height="30" width="40" /></a>
+<a href="https://kaggle.com/abhineetraj1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="abhineetraj1" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/abhineetraj1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="abhineetraj1" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/abhineetraj1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="abhineetraj1" height="30" width="40" /></a>
 </p>
